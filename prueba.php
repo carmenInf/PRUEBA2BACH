@@ -10,7 +10,10 @@ echo "Alejandro Avilés";
 
 echo "Nora Peñaloza";
 
-echo "Francisco Javier"
+echo "Francisco Javier";
+
 echo "Manuel Márquez";
+
+echo "Luis Enrique";
 
 ?>
